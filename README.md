@@ -2,6 +2,7 @@
 
 A basic personal website built using HTML, CSS and JavaScript.
 
+```
 ## Project Structure
 Assigment_Website/
 ├── home.html # Home page
@@ -12,6 +13,7 @@ Assigment_Website/
 ├── script/
 │ └── script.js # JavaScript for interactivity
 └── README.md # You're here!
+```
 
 ## Features
 - Responsive layout
